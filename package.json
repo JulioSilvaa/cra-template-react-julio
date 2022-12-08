@@ -8,6 +8,10 @@
     "template"
   ],
   "description": "The base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JulioSilvaa/cra-template-react-julio"
+  },
   "engines": {
     " node": ">=10"
   },
